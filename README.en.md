@@ -6,7 +6,7 @@ A dynamic **Cordis plugin** for **DeepSeek Harness** (DSH): shows your **DeepSee
 
 ## Features
 
-- 🖼️ Custom background image — the balance label floats over any local image (default: `D:\1234\...jpg`, configurable)
+- 🖼️ Custom background image — the balance label floats over any local image (default: `D:\...jpg`, configurable)
 - 💰 Live balance — queries the official endpoint `GET https://api.deepseek.com/user/balance`, refreshes every 20 s
 - 🖱️ Draggable label — grab the balance text and drop it anywhere inside the image (percentage-based, stays put when the image is resized)
 - 📍 Fixed at the bottom-right of the page (registered in the root `shell.overlay` slot; never blocks clicks or scrolls away)

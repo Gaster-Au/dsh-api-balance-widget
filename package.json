@@ -1,0 +1,23 @@
+{
+  "name": "dsh-api-balance-widget",
+  "version": "1.0.0",
+  "description": "A DeepSeek Harness dynamic Cordis plugin that shows the DeepSeek API balance in a floating bottom-right widget with a custom background image and a draggable balance label.",
+  "license": "MIT",
+  "keywords": [
+    "dsh",
+    "deepseek-harness",
+    "cordis",
+    "plugin",
+    "balance",
+    "api-balance",
+    "widget"
+  ],
+  "files": [
+    "plugin/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}

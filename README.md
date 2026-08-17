@@ -1,10 +1,10 @@
 # DSH API 余额悬浮窗（dsh-api-balance-widget）
 
+> [English](README.en.md) | 中文
+
 一个运行在 **DeepSeek Harness**（DSH）里的动态 Cordis 插件：在页面**右下角**用一张自定义图片实时显示 **DeepSeek API 余额**，余额数字显示在图片内的对话框中，**可拖动定位**，默认**每 20 秒自动刷新**。
 
 ![screenshot](docs/screenshot.png)
-
-> 截图占位：把实际效果截图放到 `docs/screenshot.png` 后删除本行。
 
 ## 功能特性
 
